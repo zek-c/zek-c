@@ -1,11 +1,13 @@
-### Hi there 👋 im <a href="https://github.com/zek-c" /> Zek <div>
+### Hi there 👋 im [Zek](https://github.com/zek-c) <div>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/zek-c/swashBIM" /> SwashBIM <div> and <a href="https://github.com/zek-c/about-blank-website" /> a:b web <div>
-- 🌱 I’m currently learning HTML, CSS. <a href="https://javascript.com" /> JS, and
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [SwashBIM](https://github.com/zek-c/swashBIM) and [about:blank](https://github.com/zek-c/about-blank-website)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+<hr>
+
+### You can view all of my projects [here](https://github.com/zek-c?tab=repositories).
+
+<hr>
