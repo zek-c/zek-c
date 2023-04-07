@@ -1,4 +1,4 @@
-### Hi there 👋 im <link src="https://github.com/zek-c /> Zek <div>
+### Hi there 👋 im <a href="https://github.com/zek-c /> Zek <div>
 
 <!--
 **zek-c/zek-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
