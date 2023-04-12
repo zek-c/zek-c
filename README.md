@@ -12,5 +12,5 @@
 
 <hr>
   
-
+[![Title](https://github-readme-stats.vercel.app/api?username=zek-c&show=stars%20earned,commits,%20issues,%20contributed&type=bar)](https://github-readme-stats.vercel.app/api?username=zek-c&show=stars%20earned,commits,%20issues,%20contributed&type=bar)
 
