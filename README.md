@@ -1,7 +1,7 @@
 ### Hi there 👋 im [Zek](https://github.com/zek-c) <div>
 
 
-- 🔭 I’m currently working on [Securly Killer](https://github.com/zek-c/Securly-Kill-V111) and sometimes for fun [BIM-BOT](https://github.com/zek-c/BIM-BOT)
+- 🔭 I’m not really working on anything except [Securly Killer](https://github.com/zek-c/Securly-Kill-V111) a little, but im open to suggestions at zek@sheilassunshades.site!
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
