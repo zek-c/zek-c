@@ -8,6 +8,10 @@
 
 <hr>
 
+## My distro is ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+<hr>
+
 ### You can view all of my projects [here](https://github.com/zek-c?tab=repositories).
 
 <hr>
