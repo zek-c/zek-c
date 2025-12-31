@@ -1,8 +1,7 @@
 ### Hi there 👋 im [Zek](https://github.com/zek-c) <div>
 
 
-- 🔭 I’m not really working on anything except [Securly Killer](https://github.com/zek-c/Securly-Kill-V111) a little, but im open to suggestions at stanleygriffin99@gmail.com!
-
+- 🔭 I’m not working on anything 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
 
